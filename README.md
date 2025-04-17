@@ -6,9 +6,9 @@
 
 <div align="center">
   <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/VoxDroid/Event-Management-System/total?style=flat-square&svg=true">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/VoxDroid/EMS?style=flat-square&svg=true">
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/VoxDroid/EMS?style=flat-square&svg=true">
-  <img alt="License" src="https://img.shields.io/github/license/VoxDroid/EMS?style=flat-square&svg=true">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/VoxDroid/Event-Management-System?style=flat-square&svg=true">
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/VoxDroid/Event-Management-System?style=flat-square&svg=true">
+  <img alt="License" src="https://img.shields.io/github/license/VoxDroid/Event-Management-System?style=flat-square&svg=true">
 </div>
 
 <p align="center">
